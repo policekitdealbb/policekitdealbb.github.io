@@ -1,0 +1,21 @@
+{
+  "short_name": "PoliceKitDealBB",
+  "name": "PoliceKitDealBB",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/dkowkawiq/image/upload/v1781255340/20260612_150506_lqujgn.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://res.cloudinary.com/dkowkawiq/image/upload/v1781255340/20260612_150506_lqujgn.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#f4f7f6",
+  "theme_color": "#006a4e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
